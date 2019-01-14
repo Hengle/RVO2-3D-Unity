@@ -4,7 +4,7 @@ RVO2-Unity
 use rvo2 (Optimal Reciprocal Collision Avoidance) in unity. 
 
 https://github.com/snape/RVO2-CS
-https://github.com/snape/RVO2-3D-C++
+https://github.com/snape/RVO2-3D
 
 ## Feature
 * add dynamic add/del agent in runtime.
